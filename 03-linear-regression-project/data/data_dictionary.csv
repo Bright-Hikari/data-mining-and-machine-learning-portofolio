@@ -1,0 +1,12 @@
+column,description,role
+age,Age (standardized),Numerical
+sex,Sex (standardized),Numerical/binary-coded
+bmi,Body mass index (standardized),Numerical
+bp,Average blood pressure (standardized),Numerical
+s1,Total serum cholesterol (standardized),Numerical
+s2,Low-density lipoproteins (standardized),Numerical
+s3,High-density lipoproteins (standardized),Numerical
+s4,Total cholesterol / HDL ratio (standardized),Numerical
+s5,Log of serum triglycerides level (standardized),Numerical
+s6,Blood sugar level (standardized),Numerical
+target,Quantitative measure of disease progression one year after baseline,Target / numerical

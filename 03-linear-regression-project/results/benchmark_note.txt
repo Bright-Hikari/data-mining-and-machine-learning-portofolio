@@ -1,0 +1,1 @@
+Metrik awal dihitung menggunakan scikit-learn dengan pembagian data 80:20 dan random_state=42. Jalankan ulang notebook untuk memeriksa hasil serta mengulang seluruh analisis di perangkatmu.
